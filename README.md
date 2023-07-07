@@ -1,5 +1,5 @@
 # threads-python
-(Unofficial) Reverse-engineered Python client for [Meta's Threads](https://www.threads.net/).
+(Unofficial) Python client for [Meta's Threads](https://www.threads.net/).
 
 # To Dos
 Functionality to add...
